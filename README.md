@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,android,py,pytorch,opencv,git,github,vscode" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,androidstudio,blender,py,pytorch,opencv,git,github,vscode" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -66,11 +66,20 @@
 
 ---
 
-## 📊 Статистика активности
+## 🐍 GitHub Activity & Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exesnik&layout=compact&theme=github_dark&hide_border=true&title_color=238636&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Exesnik&show_icons=true&theme=github_dark&hide_border=true&title_color=238636&text_color=c9d1d9&icon_color=238636&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
 ---
