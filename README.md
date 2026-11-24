@@ -1,4 +1,14 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <h1>Привет! Я Николай Моисеенко 👋</h1>
   <p>
     <a href="https://git.io/typing-svg">
@@ -32,7 +42,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,androidstudio,blender,py,pytorch,opencv,git,github,vscode" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,androidstudio,py,git,github,vscode" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -62,21 +72,11 @@
 |:---|:---|:---|:---:|
 | 🛩️ **[AR Drone Trainer](https://github.com/Exesnik/ar-drone-soldering-trainer)** | Android<br/>Unity Sentis<br/>YOLOv8 | • On-device GPU инференс (Unity Sentis)<br/>• Per-Class Peak Confidence NMS-фильтр<br/>• FSM сценария пайки на корутинах | [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Exesnik/ar-drone-soldering-trainer) |
 | 🪐 **[Solar System AR](https://github.com/Exesnik/solar-system-ar-app)** | Android<br/>ARFoundation<br/>ARCore | • Детекция горизонтальных плоскостей<br/>• Процедурные орбиты с `lossyScale` учетом<br/>• DOTween анимации и инфо-карточки | [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Exesnik/solar-system-ar-app) |
-| 🥽 **[VR Mechanics Kit](https://github.com/Exesnik/vr-mechanics-interaction-kit)** | Meta Quest, Pico<br/>OpenXR<br/>PhysX | • Адаптер хвата с оффсетом `_primaryGrabPoint`<br/>• `MovePosition` / `MoveRotation` в FixedUpdate<br/>• Динамический LOD под Snapdragon XR2 | [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Exesnik/vr-mechanics-interaction-kit) |
+| 🥽 **[VR Mechanics Kit](https://github.com/Exesnik/vr-mechanics-interaction-kit)** | Meta Quest, Pico<br/>OpenXR<br/>PhysX | • Адаптер хвата с оффсетом `_primaryGrabPoint`<br/>• `MovePosition` / `MoveRotation` в FixedUpdate<br/>• Динамический LOD под автономные VR-шлемы | [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Exesnik/vr-mechanics-interaction-kit) |
 
 ---
 
-## 🐍 GitHub Activity & Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Exesnik/Exesnik/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
+## 📊 Используемые языки
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exesnik&layout=compact&theme=github_dark&hide_border=true&title_color=238636&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
