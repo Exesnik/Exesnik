@@ -42,13 +42,18 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,androidstudio,py,git,github,vscode" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,androidstudio,py,pytorch,opencv,git,github,vscode" alt="Tech Stack Icons" />
   </a>
 </div>
 
 <br/>
 
 ### Core & Game Engine
+![Unity](https://img.shields.io/badge/Unity-2021%20%7C%202022%20%7C%20Unity%206-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-.NET%20Framework%20/%20Core-239120?style=flat&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20SDK-Target%20Platforms-3DDC84?style=flat&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
+
 - **Unity:** 2021 LTS, 2022 LTS, Unity 6
 - **C# / .NET:** OOP, SOLID, Scriptable Objects, Event System, Coroutines, DOTween, JSON-парсеры
 - **UI:** uGUI (Canvas — основной инструмент верстки адаптивных интерфейсов), UI Toolkit
@@ -60,7 +65,7 @@
 - **Эргономика:** World-Space UI, Billboarding, предотвращение Motion Sickness, комфортная локомоция
 
 ### Прикладной AI и автоматизация (R&D)
-- **Компьютерное зрение:** YOLOv8 (детекция объектов и микроэлектроники), PyTorch, OpenCV, сбор и аннотация датасетов (Roboflow / CVAT)
+- **Компьютерное зрение:** YOLOv8 (детекция объектов и микроэлектроники), PyTorch, OpenCV, аннотация и разметка данных (**Label Studio**, Roboflow, CVAT)
 - **Инференс в Unity:** Unity Sentis, ONNX Runtime (полностью автономный локальный инференс на мобильном устройстве без облачных задержек)
 - **MCP & Tooling:** Внедрение и настройка open-source MCP-серверов (unity-mcp, Godot, DaVinci Resolve) для подключения LLM-агентов к Unity Editor и автоматизации сборки сцен
 
